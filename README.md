@@ -53,3 +53,7 @@ paseo plugin reload claude-artifact-entrypoint
 ```
 
 Paseo provides `@getpaseo/plugin` and `zod` at runtime. `node_modules` is only needed for typechecking.
+
+## License
+
+Public domain, under [the Unlicense](LICENSE). Do whatever you want with it.

@@ -2,7 +2,8 @@
   "name": "claude-artifact-entrypoint",
   "version": "0.1.0",
   "description": "Paseo plugin that gives selected Claude Code agents the built-in Artifact tool",
-  "keywords": ["paseo", "paseo-plugin", "claude-code"],
+  "license": "Unlicense",
+  "keywords":["paseo", "paseo-plugin", "claude-code"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sermah/paseo-better-claude.git"
