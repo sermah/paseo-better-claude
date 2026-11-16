@@ -1,0 +1,8 @@
+{
+  "id": "claude-artifact-entrypoint",
+  "name": "Claude Artifact entrypoint",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.4"
+  }
+}
